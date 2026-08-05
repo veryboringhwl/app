@@ -51,6 +51,7 @@ tokio-stream = "0.1"
 tracing = "0.1"
 tracing-subscriber = { version = "0.3", features = ["env-filter"] }
 directories = "6.0"
+tower-http = { version = "0.7", features = ["cors"] }
 notify = "9.0.0-rc.4"
 fs4 = "1.1"
 arc-swap = "1.9"

@@ -662,6 +662,7 @@ dependencies = [
  "spicetify",
  "tokio",
  "tokio-stream",
+ "tower-http",
  "tracing",
  "url",
  "windows",
