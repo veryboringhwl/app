@@ -78,7 +78,7 @@ windows = { version = "0.62", features = [
   "Win32_Foundation",
   "Win32_Security",
 ] }
-windows-registry = "0.6"
+windows-registry = "0.100"
 
 [workspace.lints.rust]
 unsafe_code = "deny"
